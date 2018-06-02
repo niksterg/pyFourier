@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niksterg/pyFourier/master)
+
 #### Notebooks by N. Stergioulas on Fourier series, Fourier transforms (to be added) etc.
 
 #### License
