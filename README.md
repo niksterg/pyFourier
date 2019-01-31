@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niksterg/pyFourier/master)
 
-[(view in Nbviewer)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/TOV-pp.ipynb?flush_cache=true)
+[(view in Nbviewer)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/Fourier%20Series.ipynb?flush_cache=true)
 
 #### Notebooks by N. Stergioulas on Fourier series, Fourier transforms (to be added) etc.
 
