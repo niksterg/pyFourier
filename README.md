@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niksterg/pyFourier/master) [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/Fourier%20Series.ipynb?flush_cache=true)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/niksterg/pyFourier/master) [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/Fourier%20Series.ipynb?flush_cache=true)
 
 #### Notebooks by N. Stergioulas on Fourier series, Fourier transforms (to be added) etc.
 
