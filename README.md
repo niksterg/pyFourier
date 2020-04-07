@@ -2,9 +2,13 @@
 
 #### Notebooks by N. Stergioulas on Fourier series and Fourier transforms.
 
-[1. Fourier Series](https://github.com/niksterg/pyFourier/blob/master/Fourier%20Series.ipynb)
+[1. Fourier Series](https://github.com/niksterg/pyFourier/blob/master/Fourier%20Series.ipynb) 
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/Fourier%20Series.ipynb?flush_cache=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/pyFourier/blob/master/Fourier%20Series.ipynb)
 
-[2. Continuous Fourier transform](https://github.com/niksterg/pyFourier/blob/master/CFT.ipynb)
+[2. Continuous Fourier transform](https://github.com/niksterg/pyFourier/blob/master/CFT.ipynb) 
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/CFT.ipynb?flush_cache=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/pyFourier/blob/master/CFT.ipynb)
 
 [3. Discrete Fourier transform (in progress)](https://github.com/niksterg/pyFourier/blob/master/DFT.ipynb)
 
