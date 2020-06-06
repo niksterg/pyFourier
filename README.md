@@ -14,6 +14,9 @@
 [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/DFT.ipynb?flush_cache=true)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/pyFourier/blob/master/DFT.ipynb)
 
+[4. Discrete Fourier transform examples](https://github.com/niksterg/pyFourier/blob/master/DFT-Examples.ipynb) 
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/DFT-Examples.ipynb?flush_cache=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/pyFourier/blob/master/DFT-Examples.ipynb)
 
 #### License
 
