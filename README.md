@@ -18,6 +18,10 @@
 [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/DFT-Examples.ipynb?flush_cache=true)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/pyFourier/blob/master/DFT-Examples.ipynb)
 
+[5. Window functions for DFT examples](https://github.com/niksterg/pyFourier/blob/master/DFT-Examples.ipynb) 
+[![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/niksterg/pyFourier/blob/master/DFT-Examples.ipynb?flush_cache=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/pyFourier/blob/master/DFT-Examples.ipynb)
+
 #### License
 
 ###### Content provided under a Creative Commons Attribution license, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); code under [GNU GPLv3 License](https://choosealicense.com/licenses/gpl-3.0/). (c)2018-20 [Nikolaos Stergioulas](http://www.astro.auth.gr/~niksterg/)
